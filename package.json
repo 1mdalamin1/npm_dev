@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
+        "clock-mock": "^2.0.2",
         "haq-time-ago": "^2.5.0"
     }
 }
